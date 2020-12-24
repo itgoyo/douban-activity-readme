@@ -4,7 +4,7 @@ description: 'Allows you to show your latest douban activities on your github pr
 
 inputs:
   uid:
-    description: 'Your douban user_id'
+    description: 'itgoyo'
     required: true
   readme_path:
     description: 'Path of the readme file you want to update'
